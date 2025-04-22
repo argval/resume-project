@@ -3,6 +3,8 @@
 
 This repository is part of the **ID21x: Web Development** course at IIM Bangalore (BBA-DBE).
 
+You can access the website using the following link: http://argval.me/resume-project/
+
 ## Project Overview
 This is a personal portfolio and resume website for Anurag Vallur. It showcases academic and personal projects, provides contact information, and allows visitors to download the latest resume.
 
