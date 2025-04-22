@@ -1,4 +1,5 @@
-# Resume Project
+# IIMB BBA(DBE) ID21x: Web Development Resume Project
+> Anurag Vallur, Roll no.: 24120158
 
 This repository is part of the **ID21x: Web Development** course at IIM Bangalore (BBA-DBE).
 
