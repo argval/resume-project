@@ -49,7 +49,7 @@ This is a personal portfolio and resume website for Anurag Vallur. It showcases 
    Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## Credits
-- Developed by Anurag Vallur as part of IIMB BBA(DBE) coursework.
+- Govind Shenoy sir, our lecturer and the entire team at IIMB, for designing such a wonderful and informative course.
 - Urbanist font from Google Fonts.
 - Icons from Font Awesome.
 
